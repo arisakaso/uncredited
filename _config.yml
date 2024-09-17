@@ -22,9 +22,7 @@ author: Momoko Imura
 navbar-links:
   Home: "index"
   About Me: /#about-me
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Plans: /#plans
   Blog: "blog"
   # Author's home: "https://deanattali.com"
 

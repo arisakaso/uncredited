@@ -8,6 +8,22 @@ subtitle: put some fancy message here
 
 Uncredited is ...
 
+- a
+- b
+- c
+- d
+
 # About Me {#about-me}
 
 Momoko IMURA is ...
+
+- a
+- b
+- c
+- d
+
+# Plans {#plans}
+
+- 松
+- 竹　
+- 梅
