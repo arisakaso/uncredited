@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Uncredited
 subtitle: put some fancy message here
 ---
