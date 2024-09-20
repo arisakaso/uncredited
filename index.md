@@ -15,7 +15,7 @@ Uncredited is ...
 
 # About Me {#about-me}
 
-Momoko IMURA is ...
+Momo is ...
 
 - a
 - b
@@ -27,3 +27,6 @@ Momoko IMURA is ...
 - 松
 - 竹　
 - 梅
+
+
+<p class="fade-in">このテキストがフワッと現れます。</p>

@@ -1124,3 +1124,18 @@ pre {
     display: inline-block;
   }
 }
+
+
+/* Custom */
+/* フェードインの基本設定 */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 1s ease-out, transform 1s ease-out;
+}
+
+/* アニメーションがトリガーされた時に適用 */
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
